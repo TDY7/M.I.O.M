@@ -41,4 +41,4 @@ J'ai conçu et imprimé une feuille A3 que j'ai redimensionné puis découpé po
 - 1 Grosse poubelle
 
 ## Schéma du montage électronique:
-![Schema_M I O M](https://user-images.githubusercontent.com/103646329/172895256-64aa65ce-9928-4588-bea6-268707f12480.jpg)
+![Schema_M I O M](https://user-images.githubusercontent.com/103646329/172897034-52f10820-697f-4ee3-bbc4-f27be2aa0730.jpg)
