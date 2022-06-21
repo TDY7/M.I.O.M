@@ -46,7 +46,7 @@ if ( distance <= 25   ) // Change Distance according to Ultrasonic Sensor Placem
  {
 
 digitalWrite (led , HIGH );
-servo.write(40);
+servo.write(60);
 delay(3000);
  } 
 else 
