@@ -43,7 +43,7 @@ J'ai conçu et imprimé une feuille A3 que j'ai redimensionné puis découpé po
 ## Schéma du montage électronique:
 ![Schema_M I O M](https://user-images.githubusercontent.com/103646329/172897034-52f10820-697f-4ee3-bbc4-f27be2aa0730.jpg)
 
-## Visuel prncipal de la poubelle:
+## Visuel principal de la poubelle:
 ![Affiche-M I O M](https://user-images.githubusercontent.com/103646329/175002147-3dcea911-ce37-4e03-b085-57e18e28b94d.jpg)
 
 Sans oublier le matériel visible par dessus l'affiche:
