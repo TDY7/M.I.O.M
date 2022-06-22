@@ -47,5 +47,5 @@ J'ai conçu et imprimé une feuille A3 que j'ai redimensionné puis découpé po
 ![Affiche-M I O M](https://user-images.githubusercontent.com/103646329/175002147-3dcea911-ce37-4e03-b085-57e18e28b94d.jpg)
 
 Sans oublier le matériel visible par dessus l'affiche:
-- Le capteur à ultrason se trouve au niveau des ronds blancs pour que cela puisse ressemble à des yeux.
+- Le capteur à ultrason se trouve au niveau des ronds blancs pour que cela puisse ressembler à des yeux.
 - Une led se stiue au dessus du I de M.I.O.M et s'éclaire lorsque la poubelle s'ouvre.
