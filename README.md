@@ -8,7 +8,7 @@ Le Mangeur Intelligent d'Ordures Ménagères soit M.I.O.M est une poubelle intel
 
 ## Fonctionnement:
 
-Dès lors que le capteur à ultrason va détecter la présence d'un objet ou d'une personne à proximité de M.I.O.M, le servomoteur va pivoter d'environ 90 degrés pour tirer légèrement la ficelle reliée à un trombone situé de l'autre côté du couvercle afin de faire basculer ce dernier, ce qui va éclairer la led et permettre l'ouverture du couvercle cartonné.
+Dès lors que le capteur à ultrason va détecter la présence d'un objet ou d'une personne à proximité de M.I.O.M, le servomoteur va pivoter d'environ 90 degrés pour tirer légèrement la ficelle reliée à un trombone situé de l'autre côté du couvercle afin de faire basculer ce dernier, ce qui va éclairer la led et permettre l'ouverture du couvercle cartonné. De plus, à chaque ouverture de la poubelle, une notification est reçue sur le téléphone informant la personne de son utilisation.
 
 ## Montage:
 
