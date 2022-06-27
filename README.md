@@ -22,8 +22,8 @@ Le montage d'électronique terminé, j'ai téleversé mon code sur la carte ardu
 J'ai pris soin d'acheter deux poubelles de deux tailles différentes, la poubelle la plus grande servant uniquement pour l'esthétique (cacher les composants du montage électronique qui se trouvent sur les parois de la petite poubelle).
 
 #### Pour la petite poubelle:
-Pour la conception du couvercle, j'ai pris une feuille cartonnée blanche sur laquelle j'ai tracé le contour du diamètre supérieur de la poubelle que j'ai ensuite coupé en deux, puis scotché les deux demi cercle côte à côte tout en laissant une petit espace entre eux (ce qui permettra de facilité l'ouverture de la poubelle).
-Par la suite, j'ai percé l'un des deux demi-cercle (qui servira pour le rabatement) à l'aide d'un trombone pour y faire glisser un fil (de la face extérieure à intérieure). J'ai raccroché le fil à un trombone sur la face intérieure du demi cercle. J'ai rejoint l'autre bout du fil à l'hélice du servomoteur puis fais un noeuds de manière à ce que la longueur du fil permette l'ouverture et la fermeture du demi-cercle sur la poubelle.
+Pour la conception du couvercle, j'ai pris une feuille cartonnée blanche sur laquelle j'ai tracé le contour du diamètre supérieur de la poubelle que j'ai ensuite coupé en deux, puis scotché les deux demi-cercles côte à côte tout en laissant un petit espace entre eux (ce qui permettra de faciliter l'ouverture de la poubelle).
+Par la suite, j'ai percé l'un des deux demi-cercle (qui servira pour le rabatement) à l'aide d'un trombone pour y faire glisser un fil (de la face extérieure à intérieure). J'ai raccroché le fil à un trombone sur la face intérieure du demi-cercle. J'ai rejoint l'autre bout du fil à l'hélice du servomoteur puis fais un noeuds de manière à ce que la longueur du fil permette l'ouverture et la fermeture du demi-cercle sur la poubelle.
 
 #### Pour la grande poubelle:
 J'ai conçu et imprimé une feuille A3 que j'ai redimensionné puis découpé pour l'adapter aux formes de la poubelle. Pour le couvercle, j'ai tracé le diamètre supérieur de la poubelle à l'intérieur duquel j'ai traçé le cercle correspondant à la taille du couvercle de la petite poubelle. J'ai ensuite découpé l'intérieur du tracé du petit couvercle de manière à pouvoir placer la petite poubelle dans la grande sans la gênance du couvercle de la grande poubelle. Pour finir, j'ai eu besoin de faire plusieurs trous sur les côtés de la grande poubelle, deux pour y faire passer le capteur à ultrason, un pour y glisser la LED et un dernier pour faire passer le cable qui sera rattaché à l'ordinateur. Pour cela, j'ai utilisé une perceuse.
@@ -50,6 +50,6 @@ Sans oublier le matériel visible par dessus l'affiche:
 - Le capteur à ultrason se trouve au niveau des ronds blancs pour que cela puisse ressembler à des yeux.
 - Une led se situe au dessus du I de M.I.O.M et s'éclaire lorsque la poubelle s'ouvre.
 
-## Visuel final M.I.O.M:
+## Visuel final de M.I.O.M:
 ![MIOM_face](https://user-images.githubusercontent.com/103646329/175829824-02bf90fe-bf2a-4f62-b118-a1af6a07f23a.jpg)
 ![MIOM_dessus](https://user-images.githubusercontent.com/103646329/175829828-d70d33b5-0d70-402d-8fc0-c54b49478a32.jpg)
