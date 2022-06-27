@@ -15,7 +15,7 @@ Dès lors que le capteur à ultrason va détecter la présence d'un objet ou d'u
 ### Pour ce qui concerne le montage électronique
 
 Tout d'abord, il fallait relier le capteur à ultrason à la carte arduino grâce à des cables, pour ce faire j'ai utilisé un premier cable pour relier le Vcc du capteur à ultrason au 5v de la carte arduino UNO ensuite le Trig à la borne 9 de la carte puis Echo à la borne 8 et pour finir le GND du capteur à ultrason au GND de la carte arduino UNO. Maintenant que notre carte arduino UNO et notre capteur à ultrason sont reliés, nous pouvons nous occuper du micro servo. J'ai donc relié la première entrée du servo à la borne 7 de la carte, la deuxième au 5v de la carte et la dernière au GND de la carte. Nous pouvons maintenant rajouter la led aux bornes GND et 13 de notre carte arduino UNO. 
-Le montage d'électronique terminé, j'ai téleversé mon code sur la carte arduino UNO.
+Le montage électronique terminé, j'ai téleversé mon code sur la carte arduino UNO.
 
 ### Pour ce qui concerne le montage de M.I.O.M
 
@@ -23,7 +23,7 @@ J'ai pris soin d'acheter deux poubelles de deux tailles différentes, la poubell
 
 #### Pour la petite poubelle:
 Pour la conception du couvercle, j'ai pris une feuille cartonnée blanche sur laquelle j'ai tracé le contour du diamètre supérieur de la poubelle que j'ai ensuite coupé en deux, puis scotché les deux demi-cercles côte à côte tout en laissant un petit espace entre eux (ce qui permettra de faciliter l'ouverture de la poubelle).
-Par la suite, j'ai percé l'un des deux demi-cercle (qui servira pour le rabatement) à l'aide d'un trombone pour y faire glisser un fil (de la face extérieure à intérieure). J'ai raccroché le fil à un trombone sur la face intérieure du demi-cercle. J'ai rejoint l'autre bout du fil à l'hélice du servomoteur puis fais un noeuds de manière à ce que la longueur du fil permette l'ouverture et la fermeture du demi-cercle sur la poubelle.
+Par la suite, j'ai percé l'un des deux demi-cercles (qui servira pour le rabatement) à l'aide d'un trombone pour y faire glisser un fil (de la face extérieure à intérieure). J'ai raccroché le fil à un trombone sur la face intérieure du demi-cercle. J'ai rejoint l'autre bout du fil à l'hélice du servomoteur puis fait un noeud de manière à ce que la longueur du fil permette l'ouverture et la fermeture du demi-cercle sur la poubelle.
 
 #### Pour la grande poubelle:
 J'ai conçu et imprimé une feuille A3 que j'ai redimensionné puis découpé pour l'adapter aux formes de la poubelle. Pour le couvercle, j'ai tracé le diamètre supérieur de la poubelle à l'intérieur duquel j'ai traçé le cercle correspondant à la taille du couvercle de la petite poubelle. J'ai ensuite découpé l'intérieur du tracé du petit couvercle de manière à pouvoir placer la petite poubelle dans la grande sans la gênance du couvercle de la grande poubelle. Pour finir, j'ai eu besoin de faire plusieurs trous sur les côtés de la grande poubelle, deux pour y faire passer le capteur à ultrason, un pour y glisser la LED et un dernier pour faire passer le cable qui sera rattaché à l'ordinateur. Pour cela, j'ai utilisé une perceuse.
