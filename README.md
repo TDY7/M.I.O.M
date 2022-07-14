@@ -1,7 +1,5 @@
 # *M.I.O.M*
 
-Ce projet est réalisé dans le cadre de l'UE Communication Sans Fil au cours de la première année de licence à l'Université de Valrose à Nice.
-
 ## Description:
 
 Le Mangeur Intelligent d'Ordures Ménagères soit M.I.O.M est une poubelle intelligente qui va s'ouvrir dès lors qu'une personne se rapproche de cette dernière. La personne en face va de ce fait pouvoir déposer ses détritus même en ayant les mains encombrées. Ce projet, sous la forme d'un personnage possédant une bouche et des yeux, est "M.I.O.M" (mi homme) mi robot.
